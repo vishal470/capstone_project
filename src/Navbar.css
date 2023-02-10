@@ -1,0 +1,20 @@
+.img1 {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+}
+
+.img2 {
+  height: 60px;
+  width: 200px;
+}
+
+.navbar {
+  background-color: #9db3ed;
+}
+
+h1 {
+  font-family: "Anton", sans-serif;
+  font-family: "Lobster",cursive;
+  font-family: "Roboto", sans-serif;
+}
